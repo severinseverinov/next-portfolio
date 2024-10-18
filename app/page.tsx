@@ -15,20 +15,15 @@ export default function Home() {
           <br />
           <span className={title()}>regardless of your necessity.</span>
           <div className={subtitle({ class: "mt-4" })}>
-            Our team use fast and modern UI libraries.
+            We use fast and modern UI libraries.
           </div>
         </div>
-
         <Image
           src="bg2.png"
           alt="Main page"
           sizes="(max-width: 768px) 80vw, 33vw"
         />
       </section>
-
-      <Divider />
-
-      <h1 className="text-center pt-10 text-2xl font-bold">Our Team</h1>
 
       <Team />
     </div>

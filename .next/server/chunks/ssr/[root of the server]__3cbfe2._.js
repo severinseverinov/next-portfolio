@@ -31,7 +31,7 @@ __turbopack_esm__({
     "siteConfig": ()=>siteConfig
 });
 const siteConfig = {
-    name: "Solida || Hayata yakın Çözümler",
+    name: "Solidas || Hayata yakın çözümler",
     description: "Hayata yakın çözümler.",
     navItems: [
         {
@@ -604,7 +604,7 @@ const Navbar = ()=>{
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "font-bold text-inherit",
-                                    children: "SOLIDA"
+                                    children: "SOLIDAS"
                                 }, void 0, false, {
                                     fileName: "[project]/components/navbar.tsx",
                                     lineNumber: 57,
@@ -881,7 +881,7 @@ function RootLayout({ children }) {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-primary",
-                                            children: "SOLIDA with NextJS"
+                                            children: "SOLIDAS with NextJS"
                                         }, void 0, false, {
                                             fileName: "[project]/app/layout.tsx",
                                             lineNumber: 58,

@@ -55,7 +55,7 @@ export default function RootLayout({
                 title="Solida homepage"
               >
                 <span className="text-default-600">Powered by</span>
-                <p className="text-primary">SOLIDA with NextJS</p>
+                <p className="text-primary">SOLIDAS with NextJS</p>
               </Link>
             </footer>
           </div>

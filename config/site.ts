@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Solida || Hayata yakın Çözümler",
+  name: "Solidas || Hayata yakın çözümler",
   description: "Hayata yakın çözümler.",
   navItems: [
     {
